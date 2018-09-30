@@ -1,0 +1,2 @@
+# Run certbot scripts
+0 0 * * * root /usr/local/bin/updatecerts.sh > /dev/null
